@@ -1,2 +1,2 @@
-# Repo_Proyecto_Equipo
-Proyecto semestral investigación periodistica
+# Proyecto Semestral: Investigación Periodística
+> **Repositorio oficial del equipo para el desarrollo del reportaje de investigación.**
