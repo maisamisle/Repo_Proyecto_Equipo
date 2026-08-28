@@ -207,7 +207,7 @@ Permitirá ubicar los establecimientos sanitarios y mostrar sus distintos estado
 
 El objetivo es visualizar cómo se ha modificado la disponibilidad territorial de servicios donde las mujeres pueden recibir atención durante el embarazo y el parto.
 
-![]([https://sitio.com](https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-Gaza-North-map-80-1696847449.jpg))
+![mapa Gaza]([https://sitio.com](https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-Gaza-North-map-80-1696847449.jpg))
 
 ## Comparaciones visuales de hospitales
 
