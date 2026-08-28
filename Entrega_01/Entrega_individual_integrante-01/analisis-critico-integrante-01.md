@@ -9,4 +9,7 @@ Una segunda idea sería relacionar los datos sobre los ataques y el funcionamien
 
 ## Arquetipo
 Considero que el arquetipo que mejor se ajusta a nuestro proyecto es el de revelación, dado que busca mostrar una dimensión del genocidio en Gaza que puede quedar más escondida cuando la información se presenta de manera separada.  
-Los ataques a hospitales, el deterioro de los servicios de salud, los nacimientos prematuros, el bajo peso al nacer y la mortalidad neonatal son fenómenos que ya han sido documentados, pero nuestra investigación busca cruzar estos datos para observar cómo se han transformado las condiciones en que nacen y sobreviven los recién nacidos. La revelación estará en mostrar el problema desde el nacimiento y no solamente desde las muertes o la destrucción.
+
+Los ataques a hospitales, el deterioro de los servicios de salud, los nacimientos prematuros, el bajo peso al nacer y la mortalidad neonatal son fenómenos que ya han sido documentados, pero nuestra investigación busca cruzar estos datos para observar cómo se han transformado las condiciones en que nacen y sobreviven los recién nacidos. 
+
+La revelación estará en mostrar el problema desde el nacimiento y no solamente desde las muertes o la destrucción.
