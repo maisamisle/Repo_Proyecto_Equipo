@@ -1,7 +1,7 @@
 # Descripción de las bases de datos
 
 ## Mortalidad neonatal
-> **Fuente:** [UNICEF — Neonatal Mortality Data]([[https://github.com](https://data.unicef.org/resources/dataset/neonatal-mortality-data/)])
+> **Fuente:** [UNICEF — Neonatal Mortality Data]((https://data.unicef.org/resources/dataset/neonatal-mortality-data/)
 
 UNICEF cuenta con un dataset específicamente dedicado a la **mortalidad neonatal (muertes de recién nacidos durante los primeros 28 días de vida)** , que permite construir y descargar un conjunto de datos personalizado.
 
