@@ -201,6 +201,8 @@ Será elaborada en **Canva** y servirá para ordenar los principales cambios en 
 
 Este recurso permitirá relacionar los acontecimientos del conflicto con la evolución de los indicadores de salud.
 
+[Ejemplo de linea de tiempo](https://data.unicef.org/country/pse/#maternal-health)
+
 ## Mapa de Gaza
 
 Permitirá ubicar los establecimientos sanitarios y mostrar sus distintos estados de funcionamiento.
@@ -214,6 +216,9 @@ El objetivo es visualizar cómo se ha modificado la disponibilidad territorial d
 Mediante fotografías o imágenes satelitales se podrán comparar hospitales antes y durante el genocidio.
 
 Este recurso permitirá complementar los datos con evidencia visual sobre la transformación de la infraestructura sanitaria.
+
+
+[Ejemplos de imagenes satelitales interactivas](https://www.aljazeera.com/news/longform/2024/4/18/satellite-images-reveal-israeli-destruction-of-hospitals-in-gaza)
 
 ---
 
