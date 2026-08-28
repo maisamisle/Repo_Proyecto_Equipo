@@ -7,6 +7,6 @@ Una primera posibilidad sería construir la narrativa a partir de la evolución 
 
 Una segunda idea sería relacionar los datos sobre los ataques y el funcionamiento de los hospitales con la situación de la salud materna y neonatal. En este caso, a través de una línea de tiempo y un mapa, se podrían mostrar los hospitales que han sido bombardeados, aquellos cuyo funcionamiento se ha visto reducido o los que han sido destruidos por completo. Posteriormente, estos datos se podrían contrastar con los indicadores de nacimientos y salud neonatal. 
 
-## Ideas para contar la historia 
+## Arquetipo
 Considero que el arquetipo que mejor se ajusta a nuestro proyecto es el de revelación, dado que busca mostrar una dimensión del genocidio en Gaza que puede quedar más escondida cuando la información se presenta de manera separada.  
 Los ataques a hospitales, el deterioro de los servicios de salud, los nacimientos prematuros, el bajo peso al nacer y la mortalidad neonatal son fenómenos que ya han sido documentados, pero nuestra investigación busca cruzar estos datos para observar cómo se han transformado las condiciones en que nacen y sobreviven los recién nacidos. La revelación estará en mostrar el problema desde el nacimiento y no solamente desde las muertes o la destrucción.
