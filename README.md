@@ -1,4 +1,4 @@
-# Proyecto Semestral: Investigación Periodística
+## Proyecto Semestral: Investigación Periodística
 > **Repositorio oficial del equipo para el desarrollo de la de investigación.**
 # Nacer y sobrevivir en Gaza bajo genocidio
 
