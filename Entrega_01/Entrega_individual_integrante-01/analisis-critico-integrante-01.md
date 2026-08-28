@@ -1,0 +1,12 @@
+# Análisis crítico
+
+Con este proyecto espero que podamos mostrar de qué forma el genocidio en Gaza ha impactado en las condiciones en que las palestinas embarazadas dan a luz y cómo los recién nacidos comienzan su vida. En este sentido, me parece interesante abordar el tema desde un enfoque diferente a la cobertura que los medios tradicionales le suelen dar, centrandose en la cantidad de fallecidos o en la destrucción de los hogares e infraestructura en general. Por lo cual, quiero poner el foco en las infancias palestinas, quienes nacen y qué condiciones enfrentan desde el embarazo hasta los primeros años de vida (incluyendo también, las dificultades por las que deben pasar las mujeres palestinas).  
+
+## Ideas para contar la historia 
+Una primera posibilidad sería construir la narrativa a partir de la evolución de los principales indicadores de salud materna y neonatal. La webstory podría comenzar con los datos disponibles antes de octubre de 2023 y avanzar hasta la actualidad (o los datos más próximos), mostrando mediante gráficos cómo han ido cambiado los indicadores de, por ejemplo, nacimientos, abortos espontáneos, partos prematuros, el bajo peso al nacer y la mortalidad neonatal. 
+
+Una segunda idea sería relacionar los datos sobre los ataques y el funcionamiento de los hospitales con la situación de la salud materna y neonatal. En este caso, a través de una línea de tiempo y un mapa, se podrían mostrar los hospitales que han sido bombardeados, aquellos cuyo funcionamiento se ha visto reducido o los que han sido destruidos por completo. Posteriormente, estos datos se podrían contrastar con los indicadores de nacimientos y salud neonatal. 
+
+## Ideas para contar la historia 
+Considero que el arquetipo que mejor se ajusta a nuestro proyecto es el de revelación, dado que busca mostrar una dimensión del genocidio en Gaza que puede quedar más escondida cuando la información se presenta de manera separada.  
+Los ataques a hospitales, el deterioro de los servicios de salud, los nacimientos prematuros, el bajo peso al nacer y la mortalidad neonatal son fenómenos que ya han sido documentados, pero nuestra investigación busca cruzar estos datos para observar cómo se han transformado las condiciones en que nacen y sobreviven los recién nacidos. La revelación estará en mostrar el problema desde el nacimiento y no solamente desde las muertes o la destrucción.
