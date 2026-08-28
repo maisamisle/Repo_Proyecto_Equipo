@@ -263,3 +263,21 @@ De esta manera, la investigación podría revelar no solo que los indicadores de
 - OCHA
 - UNICEF
 - OMS-HeRAMS
+
+# Referencias bibliográficas
+
+AJLabs, Sanad Verification Agency, & AJLabs,Sanad Verification Agency. (2024, 18 abril). Satellite images reveal Israeli destruction of hospitals in Gaza. Al Jazeera. https://www.aljazeera.com/news/longform/2024/4/18/satellite-images-reveal-israeli-destruction-of-hospitals-in-gaza
+
+Se confirma la hambruna en Gaza: las mujeres embarazadas y los recién nacidos corren grave peligro. (s. f.). Fondo de Población de las Naciones Unidas. https://www.unfpa.org/es/news/se-confirma-la-hambruna-en-gaza-las-mujeres-embarazadas-y-los-reci%C3%A9n-nacidos-corren-grave
+
+Irc. (2024, 30 octubre). What is happening to children and pregnant mothers in Gaza? What Is Happening To Children And Pregnant Mothers In Gaza? https://www-rescue-org.translate.goog/article/what-happening-children-and-pregnant-mothers-gaza?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+
+World Health Organization: WHO. (2023, 3 noviembre). Women and newborns bearing the brunt of the conflict in Gaza, UN agencies warn. World Health Organization. https://www.who.int/news/item/03-11-2023-women-and-newborns-bearing-the-brunt-of-the-conflict-in-gaza-un-agencies-warn
+
+Jazeera, A. (2025, 14 abril). Timeline: Israel’s attacks on hospitals throughout its war on Gaza. Al Jazeera. https://www.aljazeera.com/news/2025/4/13/timeline-israels-attacks-on-hospitals-throughout-its-war-on-gaza?
+
+Humanitarian Situation Report | 19 March 2026 | United Nations Office for the Coordination of Humanitarian Affairs - Occupied Palestinian Territory. (2026, 19 marzo). United Nations Office For The Coordination Of Humanitarian Affairs - Occupied Palestinian Territory. https://www.ochaopt.org/content/humanitarian-situation-report-19-march-2026
+
+(S/f). Ohchr.org. Recuperado el 28 de agosto de 2026, de https://www.ohchr.org/en/press-releases/2024/05/onslaught-violence-against-women-and-children-gaza-unacceptable-un-experts
+
+
