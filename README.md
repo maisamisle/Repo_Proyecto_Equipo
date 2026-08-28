@@ -6,7 +6,7 @@
 
 Desde octubre de 2023, la población palestina de Gaza se ha enfrentado a una crisis humanitaria marcada por la muerte de civiles, el desplazamiento forzado, la destrucción de viviendas y el colapso progresivo de servicios básicos.
 
-En este contexto, el genocidio también puede observarse desde una perspectiva que suele quedar en segundo plano: **las condiciones en que comienza una nueva vida**. Las mujeres embarazadas deben atravesar sus embarazos y partos en un territorio donde la infraestructura sanitaria ha sido severamente afectada, mientras los recién nacidos enfrentan condiciones que pueden comprometer su supervivencia desde sus primeras horas de vida.
+En este contexto, el genocidio también puede observarse desde una perspectiva que suele quedar en segundo plano: **las condiciones en que comienza una nueva vida**. Las mujeres en Palestina deben atravesar sus embarazos y partos en un territorio donde la infraestructura sanitaria ha sido severamente afectada, mientras los recién nacidos enfrentan condiciones que pueden comprometer su supervivencia desde sus primeras horas de vida.
 
 El sistema de salud de Gaza constituye una de las dimensiones centrales de esta problemática. La destrucción y el deterioro de los hospitales, la falta de medicamentos e insumos, las dificultades para acceder a la atención prenatal y obstétrica y la escasez de equipamiento neonatal han alterado las condiciones habituales de atención.
 
@@ -14,9 +14,9 @@ Organismos como UNFPA, la Organización Mundial de la Salud (OMS), OCHA y UNICEF
 
 Las consecuencias también pueden observarse a través de indicadores relacionados directamente con los nacimientos. Durante el **primer semestre de 2025** se registraron aproximadamente 17.000 nacimientos en Gaza, frente a los 29.000 registrados durante el mismo período de 2022. En ese período, el UNFPA informó además más de 2.600 abortos espontáneos, alrededor de 1.460 nacimientos prematuros y más de 1.600 bebés con bajo peso.
 
-Estos datos permiten observar el genocidio desde una dimensión diferente a la contabilización de personas asesinadas: **qué ocurre con quienes logran nacer y bajo qué condiciones comienzan su vida**.
+Estos datos permiten observar el genocidio desde una dimensión diferente a la contabilización de personas asesinadas, que reduce a los palestinos a simples cifras. En este sentido, nuestro foco esta puesto en **qué ocurre con los bebés que logran nacer y bajo qué condiciones comienzan su vida**.
 
-A partir de este enfoque, buscamos reconstruir datos mediante el recorrido de un nacimiento: desde las condiciones que enfrenta una mujer durante el embarazo, pasando por su acceso a controles y atención obstétrica, hasta el lugar y las condiciones en que ocurre el parto y las posibilidades de supervivencia del recién nacido.
+A partir de este enfoque, buscamos reconstruir datos mediante el recorrido de un nacimiento: desde las condiciones que enfrenta una mujer durante el embarazo, pasando por su acceso a controles y atención obstétrica, hasta el lugar, las circunstancias en que ocurre el parto y las posibilidades de supervivencia del recién nacido.
 
 La investigación utilizará datos públicos provenientes de organismos internacionales, registros sanitarios y estudios científicos para comparar las condiciones previas al 7 de octubre de 2023 con las registradas durante el genocidio. De esta manera, el proyecto busca mostrar cómo la destrucción de las condiciones materiales necesarias para la atención sanitaria repercute incluso en el momento en que una persona comienza su vida.
 
