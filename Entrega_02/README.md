@@ -1,9 +1,11 @@
 # Análisis de Datos: Gaza — Nacer mientras desaparece la red de supervivencia
 
-## Preguntas guía de investigación
+## Hipótesis actual
 
-> **Pregunta central:** ¿Cómo nacer mientras desaparece la red que permite sobrevivir?
+> El genocidio en Gaza ha empeorado la natalidad y las condiciones de supervivencia de los neonatos, así como de mujeres embarazadas y fértiles. 
 
+ **Preguntas guía de investigación**
+ 
 - ¿Existe una gran diferencia en las tasas de natalidad y mortalidad de nuestra población objetivo a través de los años hasta la actualidad con el genocidio? ¿Cómo se han visto impactadas?
 - ¿Cuál es la diferencia entre los datos de natalidad y mortalidad en Gaza en comparación con otros países europeos y occidentales?
 - ¿Qué zonas con hospitales han sido las más atacadas dentro de Gaza? ¿Cuántas veces han sido atacadas entre 2023 y 2025? ¿Cómo evolucionaron los incidentes mes a mes? ¿Cuánto tiempo permanecieron cerrados los hospitales? ¿Hubo una progresión desde los ataques hacia los cierres y las evacuaciones?
