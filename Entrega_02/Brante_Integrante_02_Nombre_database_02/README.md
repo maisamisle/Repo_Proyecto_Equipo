@@ -1,5 +1,3 @@
-# README.md: Historial de Procesos, Decisiones Metodológicas y Fuentes
-
 ## Explicación del Proceso de Limpieza, Decisiones y Herramientas Utilizadas
 
 El proceso de curaduría y limpieza de los datos se diseñó en función de lo que se buscaba demostrar al relacionar la natalidad y la mortalidad neonatal. La intención periodística central fue cruzar ambas bases para construir un relato sólido que mostrara cómo, mientras la natalidad se mantiene en niveles sociodemográficamente poco saludables o experimenta caídas drásticas, la mortalidad infantil aumenta o se sostiene en cifras críticas en las zonas más afectadas por el conflicto en Gaza y Medio Oriente hasta el año 2024. Este enfoque nos permite dar cuenta de qué tan colapsado y frágil se encontraba el sistema sanitario incluso antes del comienzo de la fase más drástica del conflicto actual, utilizando esta información como una contextualización indispensable antes de presentar nuestra problemática mayor.
