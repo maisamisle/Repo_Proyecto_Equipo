@@ -1,4 +1,4 @@
-# Limpieza y análisis de la base de datos
+# Documentación: limpieza y análisis de la base de datos
 
 ## 1. Explicación del proceso de limpieza
 
