@@ -18,5 +18,5 @@
 
 ## 3. Observaciones sobre los Datos
 
-- **Concentración espacial:** Existe una alta densidad de incidentes en la zona norte de la Franja. La combinación de las gobernaciones de **Gaza North** (296 eventos) y **Gaza City** (248 eventos) concentra más del **68%** de los registros totales del dataset.
+- **Concentración espacial:** Existe una alta densidad de incidentes en la zona norte de la Franja. La combinación de las gobernaciones de Gaza North (296 eventos) y Gaza City (248 eventos) concentra más del 68% de los registros totales del dataset.
 - **Incompletitud en datos operativos:** Las columnas `Closure` (cierre) y `Reopening` (reapertura) muestran un porcentaje muy elevado de valores nulos (~91% y ~94% respectivamente). Esto ocurre debido a que no todos los incidentes implicaron el cierre inmediato de la instalación o a que varios centros afectados no han logrado reabrir.
