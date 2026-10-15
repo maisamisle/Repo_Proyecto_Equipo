@@ -72,7 +72,7 @@ df_resultado.to_csv(
 )
 ```
 
-Con este procedimiento, incorporé las columnas de latitud y longitud a los registros de ataques, manteniendo todos los registros de la base de datos original gracias al uso de `how='left'`.
+Con este procedimiento, incorporé las columnas de latitud y longitud a los registros de ataques, manteniendo todos los registros de la base de datos original.
 
 ### Cambio de enfoque gráfico
 
