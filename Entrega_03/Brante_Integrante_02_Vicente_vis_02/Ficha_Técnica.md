@@ -19,6 +19,6 @@
 
 ---
 
-## Notas sobre los datos
+## Observaciones
 1. **Unificación territorial:** Los datos de Palestina junta la información oficial para la Franja de Gaza y la Ribera Occidental[cite: 7].
 2. **Uso de tasas por habitantes:** Se usaron nacimientos por cada 1.000 habitantes y no números totales, para poder comparar países grandes y pequeños de forma justa[cite: 7].
