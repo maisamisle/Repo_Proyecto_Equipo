@@ -1,6 +1,4 @@
-# Visualización Atómica: Nacer en Gaza
-
-## Crónica
+# Crónica: Nacer en Gaza
 
 Nacer siempre ha significado llegar a un lugar donde exista una estructura familiar y un sistema de salud capaz de brindar atención básica. En la Franja de Gaza, desde octubre de 2023 en adelante, el proceso de gestación y parto se transformó en una situación de alto riesgo. Las acciones militares no solo han provocado miles de fallecimientos en un breve período, sino que desmantelaron casi en su totalidad la infraestructura sanitaria indispensable para la supervivencia de los recién nacidos durante sus primeros días.
 
