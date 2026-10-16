@@ -12,4 +12,4 @@ Este descenso en la gráfica no responde a una simple decisión de planificació
 
 Al comparar la trayectoria de Palestina con las demás líneas regionales e internacionales del gráfico, la diferencia resulta evidente. Mientras que en países de referencia como Francia, Estados Unidos o Noruega las tasas permanecen estables en la franja inferior (entre 10 y 14 nacimientos por mil), en Palestina se aprecia un quiebre pronunciado derivado del colapso sanitario. Sin establecimientos operativos ni atención médica esencial, la maternidad enfrenta un escenario sumamente adverso que afecta de manera directa a las mujeres en edad reproductiva y deja a los recién nacidos en una posición de vulnerabilidad.
 
-![Visualización Atómica de Natalidad](visualizacion.jpg)
+![Visualización Atómica de Natalidad](vis_01.jpg)
