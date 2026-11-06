@@ -2,7 +2,7 @@
 
 * **Integrante:** Vicente Brante
 * **Título:** Nacer en Gaza: Un análisis de la transición demográfica, la crisis obstétrica y el colapso sanitario
-* **Página Web Publicada (GitHub Pages):** https://maisamisle.github.io/Repo_Proyecto_Equipo/Entrega_04/Brante_Integrante_02_Vicente_vis_02/sitio_web/index.html
+* **Página Web Publicada (GitHub Pages):** https://vicentebrante.github.io/nacer-en-gaza/
 
 ---
 
